@@ -1,100 +1,53 @@
-Johnny Coder
+
+Gregory Ganley
 ============
 
-----
+## Education
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
+2015-2019 (expected)
+:   **BS, Computer Science**; Bridgewater State University
 
-Education
----------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Academic Experience
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Adrian Tinsley Program, PogChamp, Summer 2017**
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Worked with my mentor Dr. Oussa on using wavelet-based modeling techniques to find trends and behavior in Twitch.tv chat logs to infer the location of highlights in a livestream
 
-    *Minor: Awesomeology*
 
-Experience
-----------
+**Directed Study, Automatic Frog Vocalization Detection, Spring 2018**
 
-**Your Most Recent Work Experience:**
+Working with my mentor Dr. Black on using Digital Signal Processing (DSP) techniques to determine particular frog species’ vocalizations in audio recordings. Techniques used include Fourier Transforms, Spectral Peak Track feature extraction, and Mel-frequency Cepstrum.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+## Projects
 
-* First item
+**Skyrim** Calculate the combination of ingredients to discover all the effects for all the ingredients.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Blaise** A Mini-Pascal compiler I am creating to teach myself the fundementals of compiler design.
 
-**That Other Job You Had**
+## Hackathons
 
-Also with a short description.
+**HackHarvard:** Went with my team from Bridgewater and created a iOS Password Manager
 
-Technical Experience
---------------------
+**HackPrinceton:** Worked with two students from University of Toronto to use machine learning to determine the location of highlights in a twitch stream
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+## Skills Highlight
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Leadership
+:  **President of the Computer Science Club**: I took over the role this year and have organized trips to hackathons, competed in regional programming competitions, and brought in outside speakers in our industry.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** The glue language that holds everything together for me. If I need something prototyped quickly without concern for speed or space efficiency I jump to Python.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Go:** If the going gets hard and I need to build up a well defined, possibly concurrent system I use Go. With it’s wonderful parallel processing primitives and flexible type system it is a joy to work with.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Rust:** From compilers to hard real-time **Rust** gives me the power to control the lifetime of every object and the promises to behave.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   I am also knowledgable in **Scala**, **C/C\+\+**, **Haskell**, and **Bash/ZSH**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+---- 
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+> gganley@student.bridgew.edu • (508)-649-3263 • 21 years old 
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> Sandwich, Massachusetts
