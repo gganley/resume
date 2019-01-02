@@ -15,8 +15,8 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
+\definecolor[titlegrey][h=000000]
+\definecolor[sectioncolor][h=000000]
 \definecolor[rulecolor][h=9cb770]
 
 % Enable hyperlinks
@@ -30,16 +30,16 @@ $endif$
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+\setupbodyfont[9pt, helvetica]
 
 \setupwhitespace[medium]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\blackrule\hspace}]
+\setuphead[section]      [style=\tfc\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [color=sectioncolor, align=middle,
+                          ]
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$

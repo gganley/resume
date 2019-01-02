@@ -45,6 +45,7 @@ h2:before {
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
     background-color: #9CB770;
 }
+
 h2:hover {
     background-color: #397249;
     color: #FFFFFF;

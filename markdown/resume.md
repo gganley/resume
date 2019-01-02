@@ -1,53 +1,76 @@
+# Gregory Ganley
 
-Gregory Ganley
-============
+> 7 Triangle Circle, Sandwich, MA 02563 | gganley@student.bridgew.edu | (508)-649-3263
 
-## Education
+---
 
+## Skills 
 
-2015-2019 (expected)
-:   **BS, Computer Science**; Bridgewater State University
+Languages
+:   Know **Python**, **Go**, **Clojure**, and **Haskell** | Touch **Rust**, **R**, **Mathematica**, and **C/C\+\+**
 
+OS
+:   **Linux**, **macOS**, and **Windows**
 
-## Academic Experience
+Frameworks
+:  Know: **numpy** and **scipy** | Touch: **PyTorch** and **RESTful API Design**
 
-**Adrian Tinsley Program, PogChamp, Summer 2017**
-
-Worked with my mentor Dr. Oussa on using wavelet-based modeling techniques to find trends and behavior in Twitch.tv chat logs to infer the location of highlights in a livestream
-
-
-**Directed Study, Automatic Frog Vocalization Detection, Spring 2018**
-
-Working with my mentor Dr. Black on using Digital Signal Processing (DSP) techniques to determine particular frog species’ vocalizations in audio recordings. Techniques used include Fourier Transforms, Spectral Peak Track feature extraction, and Mel-frequency Cepstrum.
+Tools
+:   Know: **Git**, **Bash**, **Make**, and **systemd** | Touch: **Docker**
 
 ## Projects
 
-**Skyrim** Calculate the combination of ingredients to discover all the effects for all the ingredients.
+**PogChamp**  
+*Undergraduate Researcher, Summer 2017*
 
-**Blaise** A Mini-Pascal compiler I am creating to teach myself the fundementals of compiler design.
+Determine the locations of critical events in an online livestream by monitoring the associated chat room for signs of sudden increased activity or usage of key phrases.
 
-## Hackathons
+**Automatic Frog Vocalization Detection**  
+*Undergraduate Researcher, Spring 2018*
 
-**HackHarvard:** Went with my team from Bridgewater and created a iOS Password Manager
+Use Digital Signal Processing to determine the presence of specific frog species by analyzing the duration, pitch, and frequency of each individual syllable. This project will assist Biologists such as consultant Professor Surasigna in gaining accurate biodiversity measurements.
 
-**HackPrinceton:** Worked with two students from University of Toronto to use machine learning to determine the location of highlights in a twitch stream
+**Skyrim**  
+*Personal Project, 2012-Present*
 
-## Skills Highlight
+Use combinatorics to determine the ideal set of potions to mix to determine every effect of every ingredient in Skyrim.
 
-Leadership
-:  **President of the Computer Science Club**: I took over the role this year and have organized trips to hackathons, competed in regional programming competitions, and brought in outside speakers in our industry.
+**Blaise**  
+*Independent Study, Fall 2018-Spring 2019*
 
-Programming Languages
-:   **Python:** The glue language that holds everything together for me. If I need something prototyped quickly without concern for speed or space efficiency I jump to Python.
+A Mini-Pascal compiler I am creating to teach myself the fundamentals of compiler design.
 
-:   **Go:** If the going gets hard and I need to build up a well defined, possibly concurrent system I use Go. With it’s wonderful parallel processing primitives and flexible type system it is a joy to work with.
+<!-- **Built my own computer**  -->
 
-:   **Rust:** From compilers to hard real-time **Rust** gives me the power to control the lifetime of every object and the promises to behave.
+<!-- Playing games all my life, building your own computer at 15 allowed me to have a programming and gaming machine that I use to this day. -->
 
-:   I am also knowledgable in **Scala**, **C/C\+\+**, **Haskell**, and **Bash/ZSH**
+<!-- **Checker Application**  -->
 
----- 
+<!-- I built my own checkers application since I had never made a GUI application -->
 
-> gganley@student.bridgew.edu • (508)-649-3263 • 21 years old 
+**iOS Password Application**  
+*Project Lead at HackHarvard, 2018*
 
-> Sandwich, Massachusetts
+An iOS app that allows a user to store their passwords on a secure, remote server
+
+**gc**  
+*Personal Project, 2018*
+
+A GNU bc clone written in Rust
+
+## Leadership
+
+**Computer Science Club**  
+
+*President, Fall 2018-Spring 2019*
+
+Proudly served as President coordinating Hackathons, programming competitions, and field trips.
+
+**HackHarvard** 
+
+Lead a team of 4 to create our iOS Password Storage App.
+
+**HackPrinceton** 
+
+Collaborated with two University of Toronto students to create an updated version of PogChamp that uses machine learning to identify highlights.
+
